@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Olá! Eu sou o Roberto Nunes 👋</h1>
-  <h3>Focado em Ciência de Dados & Desenvolvimento Back-end</h3>
+  <h3>Focado em Ciência de Dados, Engenharia de Dados & Desenvolvimento Back-end</h3>
   
   <p>
-    Estudante do 7º período de Ciência da Computação na UNINASSAU. Apaixonado por transformar dados brutos em insights práticos, treinar modelos preditivos e construir a lógica de back-end que sustenta tudo isso. 
+    Estudante do 7º período de Ciência da Computação na UNINASSAU. Apaixonado por transformar dados brutos em insights práticos, construir pipelines de ELT robustos, treinar modelos preditivos e desenvolver a arquitetura back-end que sustenta sistemas escaláveis. 
   </p>
 
   <p>
@@ -20,7 +20,7 @@
 
 ## 💻 Tecnologias e Ferramentas
 
-Aqui estão as ferramentas, linguagens e bibliotecas que compõem meu ecossistema principal de estudo e desenvolvimento:
+Aqui estão as ferramentas, linguagens e bibliotecas que compõem meu ecossistema focado em todo o ciclo de vida dos dados e desenvolvimento:
 
 ### 📊 Ciência de Dados & Machine Learning
 <p align="left">
@@ -29,7 +29,16 @@ Aqui estão as ferramentas, linguagens e bibliotecas que compõem meu ecossistem
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+### 🛠️ Engenharia de Dados, BI & Bancos de Dados (ELT/ETL)
+<p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
 </p>
 
 ### ⚙️ Back-end
@@ -52,15 +61,20 @@ Aqui estão as ferramentas, linguagens e bibliotecas que compõem meu ecossistem
 ## 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=betopfn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Roberto" />
-  
-  <img height="180em" src="https://github.readme-stats.vercel.app/api/top-langs/?username=betopfn&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Roberto" />
+  <a href="https://github.com/betopfn">
+    <img src="https://github-readme-stats.vercel.app/api?username=betopfn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de Roberto" />
+  </a>
+  <a href="https://github.com/betopfn">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betopfn&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas por Roberto" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betopfn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/betopfn">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=betopfn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -68,4 +82,5 @@ Aqui estão as ferramentas, linguagens e bibliotecas que compõem meu ecossistem
 ## ⚡ O que estou fazendo no momento
 - 🎓 Cursando o **7º período de Ciência da Computação** na UNINASSAU.
 - 🔬 Aplicando automação, análise exploratória e machine learning com **Python**.
+- 📈 Estruturando arquiteturas de **Engenharia de Dados** e aplicando em um projeto real de **ELT**.
 - 🚀 Estruturando APIs e lógica de servidores robustos com **Node.js e NestJS**.
